@@ -4,7 +4,7 @@ body {
 	background:#666;
 }
 body, p, li, input, button, select, textarea {
-	font-family:;'Open Sans', sans-serif;
+	font-family:'Open Sans', sans-serif;
 }
 body, p, li {
     font-size:14px;
@@ -57,10 +57,10 @@ h6 {line-height:20px; color:#AAA;}
 .hero-unit hr {border-top:1px solid #000;}
 .hero-unit .buttons a, .hero-unit iframe {vertical-align:middle;}
 .hero-unit .divider-vertical {
-    height:20px; 
-    width:1px; 
-    display:inline-block; 
-    background-color:black; 
+    height:20px;
+    width:1px;
+    display:inline-block;
+    background-color:black;
     border-right:1px solid #333;
     vertical-align:middle;
     margin:0 6px;

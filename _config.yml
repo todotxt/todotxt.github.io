@@ -1,0 +1,30 @@
+title: todo.txt
+description: >
+  Track your tasks and projects in a plain text file, todo.txt. A
+  todo.txt is software and operating system agnostic; it's searchable,
+  portable, lightweight and easily manipulated.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: todotxt
+github_username:  todotxt
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+include:
+  - _pages
+
+sass:
+  style: compressed

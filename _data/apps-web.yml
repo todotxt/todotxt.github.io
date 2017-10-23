@@ -1,0 +1,23 @@
+- name: "Todotxttdi.com"
+  link: "https://todotxttdi.com/"
+  description: "HTML5 Dropbox app with text-driven user interface."
+
+- name: "TodoTxtJs"
+  link: "http://todo.martinsgill.co.uk"
+  description: "Interactive HTML5 todo.txt app with optional Dropbox integration."
+
+- name: "todoTxtWebUi"
+  link: "https://github.com/bicarbon8/todoTxtWebUi"
+  description: "A web UI to use with a todo.txt file."
+
+- name: "Bulldog"
+  link: "https://github.com/infews/bulldog"
+  description: "HTML5 task manager, built on todo.txt."
+
+- name: "Todo.txt++"
+  link: "https://github.com/trestletech/Todo.txt"
+  description: "A sleek, hosted, mobile-friendly web app with Dropbox synchronization, filtering, and searching."
+
+- name: "Todo.txt Chrome Extension"
+  link: "https://chrome.google.com/webstore/detail/mndijfcodpjlhgjcpcbhncjakaboedbl"
+  description: "Chrome browser extension to manage your todo.txt file"
