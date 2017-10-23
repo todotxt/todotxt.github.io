@@ -1,0 +1,7 @@
+- name: "Todo.txt Gem"
+  description: "A RubyGem for parsing todo.txt files."
+  link: "https://github.com/samwho/todo-txt-gem"
+
+- name: "Text::Todo"
+  description: "Perl interface to todotxt files by Andrew Fresh."
+  link: "http://search.cpan.org/~andrew/Text-Todo-v0.2.0/lib/Text/Todo.pm"

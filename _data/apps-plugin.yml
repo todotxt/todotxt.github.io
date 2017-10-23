@@ -1,0 +1,23 @@
+- name: "Vim plugin for todo.txt"
+  description: "This plugin gives syntax highlighting to todo.txt files. It also defines a few mappings, to help with editing."
+  link: "https://github.com/freitass/todo.txt-vim"
+
+- name: "#todo.txt IFTTT Recipe"
+  description: "Add items to your todo.txt file in Dropbox from Google Chat, by Nick Barrett."
+  link: "https://ifttt.com/recipes/42299"
+
+- name: "Todo.sh Add-on Directory"
+  description: "A collection of add-ons, custom actions, and filters that enhance the Todo.txt CLI script, authored by community members."
+  link: "https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory"
+
+- name: "Sublime Text extension"
+  description: "Sublime Text 3 syntax highlighting for Todo.txt"
+  link: "https://github.com/dertuxmalwieder/SublimeTodoTxt"
+
+- name: "Thunderbird Extension"
+  description: "Thunderbird extension for the Todo.txt application"
+  link: "https://addons.mozilla.org/thunderbird/addon/todotxt-extension/"
+
+- name: "Atom plugin"
+  description: "A plugin to make editing your todo.txt in Atom a breeze."
+  link: "https://atom.io/packages/language-todotxt"

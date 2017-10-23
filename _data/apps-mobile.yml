@@ -1,0 +1,7 @@
+- name: "Todo.txt Enyo"
+  description: "A webOS application for managing your todo.txt file written using the EnyoJS framework"
+  link: https://monkeystew.org/apps/
+
+- name: "Simpletask"
+  description: "Powerful todo.txt app for Android"
+  link: https://play.google.com/store/apps/details?id=nl.mpcjanssen.todotxtholo
